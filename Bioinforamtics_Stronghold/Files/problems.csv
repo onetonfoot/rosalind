@@ -1,0 +1,106 @@
+ID,Title,Solved By
+DNA,Counting DNA Nucleotides,25148
+RNA,Transcribing DNA into RNA,22440
+REVC,Complementing a Strand of DNA,20370
+GC,Computing GC Content,12176
+HAMM,Counting Point Mutations,13777
+PROT,Translating RNA into Protein,10547
+FIB,Rabbits and Recurrence Relations,11406
+IPRB,Mendel's First Law,7581
+SUBS,Finding a Motif in DNA,10972
+MRNA,Inferring mRNA from Protein,4216
+PERM,Enumerating Gene Orders,6026
+PRTM,Calculating Protein Mass,5249
+CONS,Consensus and Profile,6214
+FIBD,Mortal Fibonacci Rabbits,5047
+GRPH,Overlap Graphs,5218
+IEV,Calculating Expected Offspring,4616
+LCSM,Finding a Shared Motif,4390
+LIA,Independent Alleles,2442
+MPRT,Finding a Protein Motif,2670
+ORF,Open Reading Frames,3231
+REVP,Locating Restriction Sites,3513
+SPLC,RNA Splicing,3828
+LEXF,Enumerating k-mers Lexicographically,3376
+LGIS,Longest Increasing Subsequence,1451
+LONG,Genome Assembly as Shortest Superstring,1681
+PMCH,Perfect Matchings and RNA Secondary Structures,1537
+PPER,Partial Permutations,2203
+PROB,Introduction to Random Strings,2107
+SIGN,Enumerating Oriented Gene Orderings,2305
+SSEQ,Finding a Spliced Motif,2362
+TRAN,Transitions and Transversions,2198
+TREE,Completing a Tree,1979
+CAT,Catalan Numbers and RNA Secondary Structures,665
+CORR,Error Correction in Reads,1100
+INOD,Counting Phylogenetic Ancestors,1484
+KMER,k-Mer Composition,1690
+KMP,Speeding Up Motif Finding,1375
+LCSQ,Finding a Shared Spliced Motif,1147
+LEXV,Ordering Strings of Varying Length Lexicographically,1927
+MMCH,Maximum Matchings and RNA Secondary Structures,811
+PDST,Creating a Distance Matrix,1198
+REAR,Reversal Distance,652
+RSTR,Matching Random Motifs,911
+SSET,Counting Subsets,1450
+ASPC,Introduction to Alternative Splicing,911
+EDIT,Edit Distance,888
+EVAL,Expected Number of Restriction Sites,704
+MOTZ,Motzkin Numbers and RNA Secondary Structures,441
+NWCK,Distances in Trees,589
+SCSP,Interleaving Two Motifs,539
+SETO,Introduction to Set Operations,1172
+SORT,Sorting by Reversals,517
+SPEC,Inferring Protein from Spectrum,925
+TRIE,Introduction to Pattern Matching,682
+CONV,Comparing Spectra with the Spectral Convolution,609
+CTBL,Creating a Character Table,342
+DBRU,Constructing a De Bruijn Graph,620
+EDTA,Edit Distance Alignment,583
+FULL,Inferring Peptide from Full Spectrum,426
+INDC,Independent Segregation of Chromosomes,464
+ITWV,Finding Disjoint Motifs in a Gene,215
+LREP,Finding the Longest Multiple Repeat,331
+NKEW,Newick Format with Edge Weights,359
+RNAS,Wobble Bonding and RNA Secondary Structures,321
+AFRQ,Counting Disease Carriers,384
+CSTR,Creating a Character Table from Genetic Strings,218
+CTEA,Counting Optimal Alignments,218
+CUNR,Counting Unrooted Binary Trees,209
+GLOB,Global Alignment with Scoring Matrix,406
+PCOV,Genome Assembly with Perfect Coverage,431
+PRSM,Matching a Spectrum to a Protein,318
+QRT,Quartets,174
+SGRA,Using the Spectrum Graph to Infer Peptides,278
+SUFF,Encoding Suffix Trees,242
+CHBP,Character-Based Phylogeny,118
+CNTQ,Counting Quartets,123
+EUBT,Enumerating Unrooted Binary Trees,111
+GASM,Genome Assembly Using Reads,238
+GCON,Global Alignment with Constant Gap Penalty,267
+LING,Linguistic Complexity of a Genome,144
+LOCA,Local Alignment with Scoring Matrix,273
+MEND,Inferring Genotype from a Pedigree,189
+MGAP,Maximizing the Gap Symbols of an Optimal Alignment,151
+MREP,Identifying Maximal Repeats,128
+MULT,Multiple Alignment,150
+PDPL,Creating a Restriction Map,165
+ROOT,Counting Rooted Binary Trees,186
+SEXL,Sex-Linked Inheritance,299
+SPTD,Phylogeny Comparison with Split Distance,131
+WFMD,The Wright-Fisher Model of Genetic Drift,229
+ALPH,Alignment-Based Phylogeny,85
+ASMQ,Assessing Assembly Quality with N50 and N75,193
+CSET,Fixing an Inconsistent Character Set,98
+EBIN,Wright-Fisher's Expected Behavior,194
+FOUN,The Founder Effect and Genetic Drift,184
+GAFF,Global Alignment with Scoring Matrix and Affine Gap Penalty,226
+GREP,Genome Assembly with Perfect Coverage and Repeats,140
+OAP,Overlap Alignment,128
+QRTD,Quartet Distance,64
+SIMS,Finding a Motif with Modifications,155
+SMGB,Semiglobal Alignment,127
+KSIM,Finding All Similar Motifs,56
+LAFF,Local Alignment with Affine Gap Penalty,128
+OSYM,Isolating Symbols in Alignments,91
+RSUB,Identifying Reversing Substitutions,71
